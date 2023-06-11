@@ -1,0 +1,6 @@
+{
+  "publish": {
+    "publishDir": "dist",
+    "include": ["README.md", "CHANGELOG.md", "LICENSE.md", "package.json"]
+  }
+}
